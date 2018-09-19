@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="911ad83a-dba0-4d5a-9233-d4c9c26e7108" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Eto/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Eto/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Eto/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Eto/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Eto/riderModule.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Eto.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Eto.sln" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,12 +20,20 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="config" value="1" />
           <entry key="cs" value="3" />
+          <entry key="icns" value="1" />
+          <entry key="plist" value="1" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="C#" value="3" />
+          <entry key="Config" value="1" />
+          <entry key="Image" value="1" />
+          <entry key="Property list" value="1" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -43,6 +46,8 @@
           <entry key="C#" value="7" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
@@ -67,72 +72,11 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="236">
               <caret line="162" column="9" selection-start-line="162" selection-start-column="9" selection-end-line="162" selection-end-column="9" />
-              <folding>
-                <marker date="1537355164375" expanded="false" signature="6:109" ph="..." />
-                <marker date="1537355164375" expanded="true" signature="141:10306" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="145:324" ph="/// Bitmap data handler. ... " />
-                <marker date="1537355164375" expanded="true" signature="373:942" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="547:555" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="608:735" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="794:939" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="945:1119" ph="/// Bitmap handler. ... " />
-                <marker date="1537355164375" expanded="true" signature="1211:10304" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="1410:1418" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="1758:1792" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="1831:1878" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="1915:1960" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="2030:2726" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="2058:2722" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="2535:2664" ph="/* case PixelFormat.Format16bppRgb555: ... */" />
-                <marker date="1537355164375" expanded="true" signature="2790:2853" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="2945:3055" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="3083:3131" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="3157:3275" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="3320:3346" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="3403:3548" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="3508:3544" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="3603:4025" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="3873:3972" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="4054:4121" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="4199:4361" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="4464:6910" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="4724:4897" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="4954:5295" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="5303:5509" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="5637:6861" ph="/* Gdk.Pixbuf pb = Control; ... */" />
-                <marker date="1537355164375" expanded="true" signature="6865:6906" ph="/* if (pb != Control) ... */" />
-                <marker date="1537355164375" expanded="true" signature="6938:7001" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="6949:6997" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="7123:7536" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="7331:7513" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="7385:7508" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="7588:8132" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="7701:8128" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="8171:8626" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="8204:8622" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="8220:8617" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="8370:8454" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="8488:8571" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="8647:10089" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="8730:10029" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="8832:9210" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="8919:9203" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="9035:9130" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="9247:9749" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="9334:9742" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="9451:9669" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="9759:10023" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="9810:10016" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="9893:9975" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="10140:10301" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="10162:10269" ph="{...}" />
-                <marker date="1537355164375" expanded="true" signature="10192:10264" ph="{...}" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GtkMono/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -147,12 +91,32 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../test/Eto.Test.Mac/linker.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../test/Eto.Test.Mac/Info.plist">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../test/Eto.Test.Mac/packages.config">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="86" selection-start-line="4" selection-start-column="86" selection-end-line="4" selection-end-column="86" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../test/Eto.Test.Mac/packages.config" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Eto.Gtk/Drawing/BitmapHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../test/Eto.Test.Gtk/Startup.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GtkMono/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -194,31 +158,12 @@
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="Eto" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="test" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Client" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="Eto" type="24d0babc:SolutionExplorerModelNode" />
               <item name="test" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="GtkMono" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Eto" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="test" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="GtkMono" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="References" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Eto" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Eto.Gtk3" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Eto" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Eto.Gtk3" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Drawing" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -286,12 +231,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537355203291</updated>
-      <workItem from="1537355206782" duration="967000" />
+      <workItem from="1537355206782" duration="1370000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="967000" />
+    <option name="totallyTimeSpent" value="1370000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -353,67 +298,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="236">
           <caret line="162" column="9" selection-start-line="162" selection-start-column="9" selection-end-line="162" selection-end-column="9" />
-          <folding>
-            <marker date="1537355164375" expanded="false" signature="6:109" ph="..." />
-            <marker date="1537355164375" expanded="true" signature="141:10306" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="145:324" ph="/// Bitmap data handler. ... " />
-            <marker date="1537355164375" expanded="true" signature="373:942" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="547:555" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="608:735" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="794:939" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="945:1119" ph="/// Bitmap handler. ... " />
-            <marker date="1537355164375" expanded="true" signature="1211:10304" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="1410:1418" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="1758:1792" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="1831:1878" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="1915:1960" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="2030:2726" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="2058:2722" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="2535:2664" ph="/* case PixelFormat.Format16bppRgb555: ... */" />
-            <marker date="1537355164375" expanded="true" signature="2790:2853" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="2945:3055" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="3083:3131" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="3157:3275" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="3320:3346" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="3403:3548" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="3508:3544" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="3603:4025" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="3873:3972" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="4054:4121" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="4199:4361" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="4464:6910" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="4724:4897" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="4954:5295" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="5303:5509" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="5637:6861" ph="/* Gdk.Pixbuf pb = Control; ... */" />
-            <marker date="1537355164375" expanded="true" signature="6865:6906" ph="/* if (pb != Control) ... */" />
-            <marker date="1537355164375" expanded="true" signature="6938:7001" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="6949:6997" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="7123:7536" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="7331:7513" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="7385:7508" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="7588:8132" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="7701:8128" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="8171:8626" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="8204:8622" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="8220:8617" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="8370:8454" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="8488:8571" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="8647:10089" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="8730:10029" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="8832:9210" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="8919:9203" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="9035:9130" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="9247:9749" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="9334:9742" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="9451:9669" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="9759:10023" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="9810:10016" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="9893:9975" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="10140:10301" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="10162:10269" ph="{...}" />
-            <marker date="1537355164375" expanded="true" signature="10192:10264" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -440,6 +324,22 @@
             <marker date="1537355590708" expanded="true" signature="74:300" ph="{...}" />
             <marker date="1537355590708" expanded="true" signature="125:297" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test/Eto.Test.Mac/linker.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test/Eto.Test.Mac/Info.plist">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test/Eto.Test.Mac/TestIcon.icns">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test/Eto.Test.Mac/packages.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="86" selection-start-line="4" selection-start-column="86" selection-end-line="4" selection-end-column="86" />
         </state>
       </provider>
     </entry>

@@ -43,6 +43,7 @@
       <e p="Interop.SHDocVw.dll" t="Include" />
     </e>
     <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Client" t="Include" />
       <e p="Eto" t="IncludeRecursive">
         <e p="AutoInitializeAttribute.cs" t="Include" />
         <e p="BreakingChanges.txt" t="Include" />
