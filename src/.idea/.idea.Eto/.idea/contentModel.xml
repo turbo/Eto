@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2018.2/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2018.2/system/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_Eto.-2043125955.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/.nuget/packages/extended.wpf.toolkit/3.2.0/lib/net40" t="Include">
+      <e p="Xceed.Wpf.Toolkit.dll" t="Include" />
+    </e>
+    <e p="$USER_HOME$/.nuget/packages/windows7apicodepack-core/1.1.0/lib" t="Include">
+      <e p="Microsoft.WindowsAPICodePack.dll" t="Include" />
+    </e>
+    <e p="$USER_HOME$/.nuget/packages/windows7apicodepack-shell/1.1.0/lib" t="Include">
+      <e p="Microsoft.WindowsAPICodePack.Shell.dll" t="Include" />
+    </e>
+    <e p="$PROJECT_DIR$/../LICENSE.txt" t="Include" />
+    <e p="$PROJECT_DIR$/../artifacts/core/Debug/net45" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$/../artifacts/core/Debug/netstandard1.0" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$/../artifacts/core/Debug/netstandard2.0" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$/../artifacts/obj/Linux/Eto/Debug/netstandard1.0" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$/../artifacts/obj/Linux/Eto.Gtk/Debug/netstandard2.0" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$/../artifacts/obj/Linux/Eto.Mac64/Debug" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$/../artifacts/obj/Linux/Eto.Serialization.Json/Debug/netstandard1.0" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$/../artifacts/obj/Linux/Eto.Serialization.Xaml/Debug/netstandard1.0" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$/../artifacts/obj/Linux/Eto.Test/Debug/netstandard1.6" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$/../artifacts/obj/Linux/Eto.Test.Mac64/Debug/net461" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$/../artifacts/obj/Linux/Eto.Test.Wpf/Debug" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$/../artifacts/obj/Linux/Eto.WinForms/Debug" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$/../artifacts/obj/Linux/Eto.Wpf/Debug" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$/../artifacts/obj/Linux/GtkMono/Debug" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$/../artifacts/packages" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$/../artifacts/test/Debug" t="ExcludeRecursive">
+      <e p="net461" t="ExcludeRecursive" />
+      <e p="netstandard1.6" t="ExcludeRecursive" />
+    </e>
+    <e p="$PROJECT_DIR$/../build/Build.proj" t="Include" />
+    <e p="$PROJECT_DIR$/../build/Build.props" t="Include" />
+    <e p="$PROJECT_DIR$/../build/Build.targets" t="Include" />
+    <e p="$PROJECT_DIR$/../build/Utilities.targets" t="Include" />
+    <e p="$PROJECT_DIR$/../lib/MonoMac64/MonoMac-License.txt" t="Include" />
+    <e p="$PROJECT_DIR$/../lib/SHDocVw" t="Include">
+      <e p="Interop.SHDocVw.dll" t="Include" />
+    </e>
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Eto" t="IncludeRecursive">
+        <e p="AutoInitializeAttribute.cs" t="Include" />
+        <e p="BreakingChanges.txt" t="Include" />
+        <e p="CollectionChangedHandler.cs" t="Include" />
+        <e p="ContentProperty.cs" t="Include" />
+        <e p="Drawing" t="Include">
+          <e p="Bitmap.cs" t="Include" />
+          <e p="BitmapData.cs" t="Include" />
+          <e p="Brush.cs" t="Include" />
+          <e p="Brushes.cs" t="Include" />
+          <e p="Color.cs" t="Include" />
+          <e p="ColorCMYK.cs" t="Include" />
+          <e p="ColorConverter.cs" t="Include" />
+          <e p="ColorHSB.cs" t="Include" />
+          <e p="ColorHSL.cs" t="Include" />
+          <e p="Colors.cs" t="Include" />
+          <e p="DashStyle.cs" t="Include" />
+          <e p="DashStyles.cs" t="Include" />
+          <e p="FillMode.cs" t="Include" />
+          <e p="Font.cs" t="Include" />
+          <e p="FontConverter.cs" t="Include" />
+          <e p="FontFamilies.cs" t="Include" />
+          <e p="FontFamily.cs" t="Include" />
+          <e p="FontTypeface.cs" t="Include" />
+          <e p="Fonts.cs" t="Include" />
+          <e p="Graphics.cs" t="Include" />
+          <e p="GraphicsPath.cs" t="Include" />
+          <e p="Icon.cs" t="Include" />
+          <e p="IconFrame.cs" t="Include" />
+          <e p="Image.cs" t="Include" />
+          <e p="ImageConverter.cs" t="Include" />
+          <e p="ImageInterpolation.cs" t="Include" />
+          <e p="IndexedBitmap.cs" t="Include" />
+          <e p="LinearGradientBrush.cs" t="Include" />
+          <e p="Matrix.cs" t="Include" />
+          <e p="Padding.cs" t="Include" />
+          <e p="PaddingConverter.cs" t="Include" />
+          <e p="Palette.cs" t="Include" />
+          <e p="Pen.cs" t="Include" />
+          <e p="PenLineCap.cs" t="Include" />
+          <e p="PenLineJoin.cs" t="Include" />
+          <e p="Pens.cs" t="Include" />
+          <e p="PixelOffsetMode.cs" t="Include" />
+          <e p="Point.cs" t="Include" />
+          <e p="PointConverter.cs" t="Include" />
+          <e p="PointF.cs" t="Include" />
+          <e p="PointFConverter.cs" t="Include" />
+          <e p="RadialGradientBrush.cs" t="Include" />
+          <e p="Rectangle.cs" t="Include" />
+          <e p="RectangleConverter.cs" t="Include" />
+          <e p="RectangleF.cs" t="Include" />
+          <e p="RectangleFConverter.cs" t="Include" />
+          <e p="Region.cs" t="Include" />
+          <e p="Size.cs" t="Include" />
+          <e p="SizeConverter.cs" t="Include" />
+          <e p="SizeF.cs" t="Include" />
+          <e p="SizeFConverter.cs" t="Include" />
+          <e p="SolidBrush.cs" t="Include" />
+          <e p="SystemColors.cs" t="Include" />
+          <e p="SystemFonts.cs" t="Include" />
+          <e p="TextureBrush.cs" t="Include" />
+        </e>
+        <e p="Eto.csproj" t="IncludeRecursive" />
+        <e p="EtoEnvironment.cs" t="Include" />
+        <e p="EtoMemberIdentifier.cs" t="Include" />
+        <e p="EventLookup.cs" t="Include" />
+        <e p="ExportHandlerAttribute.cs" t="Include" />
+        <e p="ExtendedObservableCollection.cs" t="Include" />
+        <e p="FileAction.cs" t="Include" />
+        <e p="Forms" t="Include">
+          <e p="AboutDialog.cs" t="Include" />
+          <e p="Application.cs" t="Include" />
+          <e p="Binding" t="Include">
+            <e p="BindableBinding.cs" t="Include" />
+            <e p="BindableExtensions.cs" t="Include" />
+            <e p="BindableWidget.cs" t="Include" />
+            <e p="Binding.cs" t="Include" />
+            <e p="Binding.helpers.cs" t="Include" />
+            <e p="BindingChangedEventArgs.cs" t="Include" />
+            <e p="BindingChangingEventArgs.cs" t="Include" />
+            <e p="BindingCollection.cs" t="Include" />
+            <e p="ColumnBinding.cs" t="Include" />
+            <e p="DelegateBinding.cs" t="Include" />
+            <e p="DirectBinding.cs" t="Include" />
+            <e p="DualBinding.cs" t="Include" />
+            <e p="IBindable.cs" t="Include" />
+            <e p="ICommand.cs" t="Include" />
+            <e p="IValueConverter.cs" t="Include" />
+            <e p="IndirectBinding.cs" t="Include" />
+            <e p="ObjectBinding.cs" t="Include" />
+            <e p="PropertyBinding.cs" t="Include" />
+            <e p="PropertyNotifyHelper.cs" t="Include" />
+          </e>
+          <e p="BindingExtensions.cs" t="Include" />
+          <e p="Cells" t="Include">
+            <e p="Cell.cs" t="Include" />
+            <e p="CheckBoxCell.cs" t="Include" />
+            <e p="ComboBoxCell.cs" t="Include" />
+            <e p="CustomCell.cs" t="Include" />
+            <e p="DrawableCell.cs" t="Include" />
+            <e p="ImageTextCell.cs" t="Include" />
+            <e p="ImageViewCell.cs" t="Include" />
+            <e p="ProgressCell.cs" t="Include" />
+            <e p="PropertyCell.cs" t="Include" />
+            <e p="SingleValueCell.cs" t="Include" />
+            <e p="TextBoxCell.cs" t="Include" />
+          </e>
+          <e p="Clipboard.cs" t="Include" />
+          <e p="ColorDialog.cs" t="Include" />
+          <e p="Command.cs" t="Include" />
+          <e p="CommonDialog.cs" t="Include" />
+          <e p="Container.cs" t="Include" />
+          <e p="ControlBinding.cs" t="Include" />
+          <e p="ControlConverter.cs" t="Include" />
+          <e p="Controls" t="Include">
+            <e p="Button.cs" t="Include" />
+            <e p="Calendar.cs" t="Include" />
+            <e p="CheckBox.cs" t="Include" />
+            <e p="ColorPicker.cs" t="Include" />
+            <e p="ComboBox.cs" t="Include" />
+            <e p="CommonControl.cs" t="Include" />
+            <e p="Control.cs" t="Include" />
+            <e p="DateTimePicker.cs" t="Include" />
+            <e p="DocumentControl.cs" t="Include" />
+            <e p="DocumentPage.cs" t="Include" />
+            <e p="DragEventArgs.cs" t="Include" />
+            <e p="Drawable.cs" t="Include" />
+            <e p="DropDown.cs" t="Include" />
+            <e p="EnumDropDown.cs" t="Include" />
+            <e p="EnumRadioButtonList.cs" t="Include" />
+            <e p="Expander.cs" t="Include" />
+            <e p="FilePicker.cs" t="Include" />
+            <e p="FontPicker.cs" t="Include" />
+            <e p="Grid.cs" t="Include" />
+            <e p="GridColumn.cs" t="Include" />
+            <e p="GridItem.cs" t="Include" />
+            <e p="GridView.cs" t="Include" />
+            <e p="GroupBox.cs" t="Include" />
+            <e p="ImageView.cs" t="Include" />
+            <e p="KeyEventArgs.cs" t="Include" />
+            <e p="Label.cs" t="Include" />
+            <e p="LinkButton.cs" t="Include" />
+            <e p="ListBox.cs" t="Include" />
+            <e p="ListControl.cs" t="Include" />
+            <e p="MaskedTextBox.cs" t="Include" />
+            <e p="MaskedTextStepper.cs" t="Include" />
+            <e p="MouseEventArgs.cs" t="Include" />
+            <e p="Navigation.cs" t="Include" />
+            <e p="NavigationItem.cs" t="Include" />
+            <e p="NumericStepper.cs" t="Include" />
+            <e p="Panel.cs" t="Include" />
+            <e p="PasswordBox.cs" t="Include" />
+            <e p="ProgressBar.cs" t="Include" />
+            <e p="RadioButton.cs" t="Include" />
+            <e p="RadioButtonList.cs" t="Include" />
+            <e p="RichTextArea.cs" t="Include" />
+            <e p="Scrollable.cs" t="Include" />
+            <e p="SearchBox.cs" t="Include" />
+            <e p="Slider.cs" t="Include" />
+            <e p="Spinner.cs" t="Include" />
+            <e p="Splitter.cs" t="Include" />
+            <e p="Stepper.cs" t="Include" />
+            <e p="TabControl.cs" t="Include" />
+            <e p="TabPage.cs" t="Include" />
+            <e p="TextArea.cs" t="Include" />
+            <e p="TextBox.cs" t="Include" />
+            <e p="TextChangingEventArgs.cs" t="Include" />
+            <e p="TextControl.cs" t="Include" />
+            <e p="TextInputEventArgs.cs" t="Include" />
+            <e p="TextStepper.cs" t="Include" />
+            <e p="ThemedContainerHandler.cs" t="Include" />
+            <e p="ThemedControlHandler.cs" t="Include" />
+            <e p="TreeGridItem.cs" t="Include" />
+            <e p="TreeGridView.cs" t="Include" />
+            <e p="TreeItem.cs" t="Include" />
+            <e p="TreeView.cs" t="Include" />
+            <e p="WebView.cs" t="Include" />
+          </e>
+          <e p="Cursor.cs" t="Include" />
+          <e p="Cursors.cs" t="Include" />
+          <e p="DataObject.cs" t="Include" />
+          <e p="DataStoreVirtualCollection.cs" t="Include" />
+          <e p="Dialog.cs" t="Include" />
+          <e p="DockPosition.cs" t="Include" />
+          <e p="FileDialog.cs" t="Include" />
+          <e p="FileFilter.cs" t="Include" />
+          <e p="FilterCollection.cs" t="Include" />
+          <e p="FontDialog.cs" t="Include" />
+          <e p="Form.cs" t="Include" />
+          <e p="IDataStore.cs" t="Include" />
+          <e p="IKeyboardInputSource.cs" t="Include" />
+          <e p="IMouseInputSource.cs" t="Include" />
+          <e p="Key.cs" t="Include" />
+          <e p="Keyboard.cs" t="Include" />
+          <e p="KeysConverter.cs" t="Include" />
+          <e p="Layout" t="Include">
+            <e p="DynamicControl.cs" t="Include" />
+            <e p="DynamicItem.cs" t="Include" />
+            <e p="DynamicItemConverter.cs" t="Include" />
+            <e p="DynamicLayout.cs" t="Include" />
+            <e p="DynamicRowConverter.cs" t="Include" />
+            <e p="DynamicTable.cs" t="Include" />
+            <e p="Layout.cs" t="Include" />
+            <e p="PixelLayout.cs" t="Include" />
+            <e p="StackLayout.cs" t="Include" />
+            <e p="StackLayoutItemConverter.cs" t="Include" />
+            <e p="TableCell.cs" t="Include" />
+            <e p="TableCellConverter.cs" t="Include" />
+            <e p="TableLayout.cs" t="Include" />
+            <e p="TableRow.cs" t="Include" />
+            <e p="TableRowConverter.cs" t="Include" />
+          </e>
+          <e p="ListItem.cs" t="Include" />
+          <e p="MaskedTextProvider" t="Include">
+            <e p="FixedMaskedTextProvider.cs" t="Include" />
+            <e p="IMaskedTextProvider.cs" t="Include" />
+            <e p="NumericMaskedTextProvider.cs" t="Include" />
+            <e p="VariableMaskedTextProvider.cs" t="Include" />
+          </e>
+          <e p="Menu" t="Include">
+            <e p="ButtonMenuItem.cs" t="Include" />
+            <e p="CheckMenuItem.cs" t="Include" />
+            <e p="ContextMenu.cs" t="Include" />
+            <e p="Menu.cs" t="Include" />
+            <e p="MenuBar.cs" t="Include" />
+            <e p="MenuItem.cs" t="Include" />
+            <e p="MenuItemCollection.cs" t="Include" />
+            <e p="MenuItemConverter.cs" t="Include" />
+            <e p="RadioMenuItem.cs" t="Include" />
+            <e p="SeparatorMenuItem.cs" t="Include" />
+            <e p="SubMenu.cs" t="Include" />
+          </e>
+          <e p="MessageBox.cs" t="Include" />
+          <e p="Mouse.cs" t="Include" />
+          <e p="Notification.cs" t="Include" />
+          <e p="NotificationEventArgs.cs" t="Include" />
+          <e p="OpenFileDialog.cs" t="Include" />
+          <e p="OpenWithDialog.cs" t="Include" />
+          <e p="Orientation.cs" t="Include" />
+          <e p="Printing" t="Include">
+            <e p="PageSettings.cs" t="Include" />
+            <e p="PrintDialog.cs" t="Include" />
+            <e p="PrintDocument.cs" t="Include" />
+            <e p="PrintPageEventArgs.cs" t="Include" />
+            <e p="PrintSettings.cs" t="Include" />
+          </e>
+          <e p="Range.cs" t="Include" />
+          <e p="RelayCommand.cs" t="Include" />
+          <e p="SaveFileDialog.cs" t="Include" />
+          <e p="Screen.cs" t="Include" />
+          <e p="SelectFolderDialog.cs" t="Include" />
+          <e p="ThemedControls" t="Include">
+            <e p="ThemedAboutHandler.cs" t="Include" />
+            <e p="ThemedDocumentControlHandler.cs" t="Include" />
+            <e p="ThemedDocumentPageHandler.cs" t="Include" />
+            <e p="ThemedExpanderHandler.cs" t="Include" />
+            <e p="ThemedFilePickerHandler.cs" t="Include" />
+            <e p="ThemedFontPickerHandler.cs" t="Include" />
+            <e p="ThemedSpinnerHandler.cs" t="Include" />
+            <e p="ThemedSplitterHandler.cs" t="Include" />
+            <e p="ThemedStepperHandler.cs" t="Include" />
+            <e p="ThemedTextStepperHandler.cs" t="Include" />
+          </e>
+          <e p="ToolBar" t="Include">
+            <e p="ButtonToolItem.cs" t="Include" />
+            <e p="CheckToolItem.cs" t="Include" />
+            <e p="RadioToolItem.cs" t="Include" />
+            <e p="SeparatorToolItem.cs" t="Include" />
+            <e p="Tool.cs" t="Include" />
+            <e p="ToolBar.cs" t="Include" />
+            <e p="ToolItem.cs" t="Include" />
+            <e p="ToolItemCollection.cs" t="Include" />
+            <e p="ToolItemConverter.cs" t="Include" />
+          </e>
+          <e p="TrayIndicator.cs" t="Include" />
+          <e p="UITimer.cs" t="Include" />
+          <e p="WidgetExtensions.cs" t="Include" />
+          <e p="Window.cs" t="Include" />
+        </e>
+        <e p="HandlerAttribute.cs" t="Include" />
+        <e p="Helper.cs" t="Include" />
+        <e p="IO" t="Include">
+          <e p="SystemIcons.cs" t="Include" />
+        </e>
+        <e p="Info.plist" t="Include" />
+        <e p="NamespaceInfo.cs" t="Include" />
+        <e p="OperatingSystemPlatform.cs" t="Include" />
+        <e p="PclTypes.cs" t="Include" />
+        <e p="Platform.cs" t="Include" />
+        <e p="PlatformContext.cs" t="Include" />
+        <e p="PlatformExtension.cs" t="Include" />
+        <e p="Platforms.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="PropertyStore.cs" t="Include" />
+        <e p="RuntimeNamePropertyAttribute.cs" t="Include" />
+        <e p="Style.cs" t="Include" />
+        <e p="Threading" t="Include">
+          <e p="Thread.cs" t="Include" />
+        </e>
+        <e p="TypeHelper.cs" t="Include" />
+        <e p="UnhandledExceptionEventHandler.cs" t="Include" />
+        <e p="Widget.cs" t="Include" />
+        <e p="WidgetHandler.cs" t="Include" />
+      </e>
+      <e p="Eto.Gtk" t="IncludeRecursive">
+        <e p="CustomControls" t="Include">
+          <e p="AnalogClock.cs" t="Include" />
+          <e p="BaseComboBox.cs" t="Include" />
+          <e p="DateComboBox.cs" t="Include" />
+          <e p="DateComboBoxDialog.cs" t="Include" />
+          <e p="SizableBin.cs" t="Include" />
+          <e p="WindowExtensions.cs" t="Include" />
+        </e>
+        <e p="Drawing" t="Include">
+          <e p="BitmapHandler.cs" t="Include" />
+          <e p="BrushHandler.cs" t="Include" />
+          <e p="FontFamilyHandler.cs" t="Include" />
+          <e p="FontHandler.cs" t="Include" />
+          <e p="FontTypefaceHandler.cs" t="Include" />
+          <e p="FontsHandler.cs" t="Include" />
+          <e p="GraphicsHandler.cs" t="Include" />
+          <e p="GraphicsPathHandler.cs" t="Include" />
+          <e p="IconFrameHandler.cs" t="Include" />
+          <e p="IconHandler.cs" t="Include" />
+          <e p="ImageHandler.cs" t="Include" />
+          <e p="IndexedBitmapHandler.cs" t="Include" />
+          <e p="LinearGradientBrushHandler.cs" t="Include" />
+          <e p="MatrixHandler.cs" t="Include" />
+          <e p="PenHandler.cs" t="Include" />
+          <e p="RadialGradientBrushHandler.cs" t="Include" />
+          <e p="SolidBrushHandler.cs" t="Include" />
+          <e p="SystemColorsHandler.cs" t="Include" />
+          <e p="TextureBrushHandler.cs" t="Include" />
+        </e>
+        <e p="Eto.Gtk.csproj" t="IncludeRecursive" />
+        <e p="EtoEnvironmentHandler.cs" t="Include" />
+        <e p="Forms" t="Include">
+          <e p="AboutDialogHandler.cs" t="Include" />
+          <e p="ApplicationHandler.cs" t="Include" />
+          <e p="Cells" t="Include">
+            <e p="CellHandler.cs" t="Include" />
+            <e p="CheckBoxCellHandler.cs" t="Include" />
+            <e p="ComboBoxCellHandler.cs" t="Include" />
+            <e p="CustomCellHandler.cs" t="Include" />
+            <e p="DrawableCellHandler.cs" t="Include" />
+            <e p="GridCellFormattingEventArgs.cs" t="Include" />
+            <e p="ImageTextCellHandler.cs" t="Include" />
+            <e p="ImageViewCellHandler.cs" t="Include" />
+            <e p="ProgressCellHandler.cs" t="Include" />
+            <e p="TextBoxCellHandler.cs" t="Include" />
+          </e>
+          <e p="ClipboardHandler.cs" t="Include" />
+          <e p="ColorDialogHandler.cs" t="Include" />
+          <e p="Controls" t="Include">
+            <e p="ButtonHandler.cs" t="Include" />
+            <e p="CalendarHandler.cs" t="Include" />
+            <e p="CheckBoxHandler.cs" t="Include" />
+            <e p="ColorPickerHandler.cs" t="Include" />
+            <e p="ComboBoxHandler.cs" t="Include" />
+            <e p="DateTimePickerHandler.cs" t="Include" />
+            <e p="DocumentControlHandler.cs" t="Include" />
+            <e p="DocumentPageHandler.cs" t="Include" />
+            <e p="DrawableHandler.cs" t="Include" />
+            <e p="DropDownHandler.cs" t="Include" />
+            <e p="ExpanderHandler.cs" t="Include" />
+            <e p="FilePickerHandler.cs" t="Include" />
+            <e p="FontPickerHandler.cs" t="Include" />
+            <e p="GridColumnHandler.cs" t="Include" />
+            <e p="GridHandler.cs" t="Include" />
+            <e p="GridViewHandler.cs" t="Include" />
+            <e p="GroupBoxHandler.cs" t="Include" />
+            <e p="GtkEnumerableModel.cs" t="Include" />
+            <e p="GtkListModel.cs" t="Include" />
+            <e p="GtkTreeModel.cs" t="Include" />
+            <e p="ImageViewHandler.cs" t="Include" />
+            <e p="LabelHandler.cs" t="Include" />
+            <e p="LinkButtonHandler.cs" t="Include" />
+            <e p="ListBoxHandler.cs" t="Include" />
+            <e p="NativeControlHandler.cs" t="Include" />
+            <e p="NumericStepperHandler.cs" t="Include" />
+            <e p="PanelHandler.cs" t="Include" />
+            <e p="PasswordBoxHandler.cs" t="Include" />
+            <e p="ProgressBarHandler.cs" t="Include" />
+            <e p="RadioButtonHandler.cs" t="Include" />
+            <e p="RichTextAreaHandler.cs" t="Include" />
+            <e p="ScrollableHandler.cs" t="Include" />
+            <e p="SearchBoxHandler.cs" t="Include" />
+            <e p="SliderHandler.cs" t="Include" />
+            <e p="SpinnerHandler.cs" t="Include" />
+            <e p="SplitterHandler.cs" t="Include" />
+            <e p="StepperHandler.cs" t="Include" />
+            <e p="TabControlHandler.cs" t="Include" />
+            <e p="TabPageHandler.cs" t="Include" />
+            <e p="TextAreaHandler.cs" t="Include" />
+            <e p="TextBoxHandler.cs" t="Include" />
+            <e p="TextStepperHandler.cs" t="Include" />
+            <e p="TreeGridViewHandler.cs" t="Include" />
+            <e p="TreeViewHandler.cs" t="Include" />
+            <e p="WebKit2WebViewHandler.cs" t="Include" />
+          </e>
+          <e p="CursorHandler.cs" t="Include" />
+          <e p="DataObjectHandler.cs" t="Include" />
+          <e p="DialogHandler.cs" t="Include" />
+          <e p="FontDialogHandler.cs" t="Include" />
+          <e p="FormHandler.cs" t="Include" />
+          <e p="GtkContainer.cs" t="Include" />
+          <e p="GtkControl.cs" t="Include" />
+          <e p="GtkFileDialog.cs" t="Include" />
+          <e p="GtkPanel.cs" t="Include" />
+          <e p="GtkSynchronizationContext.cs" t="Include" />
+          <e p="GtkWindow.cs" t="Include" />
+          <e p="KeyboardHandler.cs" t="Include" />
+          <e p="LinuxNotificationHandler.cs" t="Include" />
+          <e p="LinuxTrayIndicatorHandler.cs" t="Include" />
+          <e p="Menu" t="Include">
+            <e p="ButtonMenuItemHandler.cs" t="Include" />
+            <e p="CheckMenuItemHandler.cs" t="Include" />
+            <e p="ContextMenuHandler.cs" t="Include" />
+            <e p="MenuBarHandler.cs" t="Include" />
+            <e p="MenuHandler.cs" t="Include" />
+            <e p="RadioMenuItemHandler.cs" t="Include" />
+            <e p="SeparatorMenuItemHandler.cs" t="Include" />
+          </e>
+          <e p="MessageBoxHandler.cs" t="Include" />
+          <e p="MouseHandler.cs" t="Include" />
+          <e p="OpenFileDialog.cs" t="Include" />
+          <e p="OpenWithDialogHandler.cs" t="Include" />
+          <e p="OtherTrayIndicatorHandler.cs" t="Include" />
+          <e p="PixelLayoutHandler.cs" t="Include" />
+          <e p="Printing" t="Include">
+            <e p="PrintDialogHandler.cs" t="Include" />
+            <e p="PrintDocumentHandler.cs" t="Include" />
+            <e p="PrintSettingsHandler.cs" t="Include" />
+          </e>
+          <e p="SaveFileDialog.cs" t="Include" />
+          <e p="ScreenHandler.cs" t="Include" />
+          <e p="ScreensHandler.cs" t="Include" />
+          <e p="SelectFolderDialogHandler.cs" t="Include" />
+          <e p="TableLayoutHandler.cs" t="Include" />
+          <e p="ToolBar" t="Include">
+            <e p="ButtonToolItemHandler.cs" t="Include" />
+            <e p="CheckToolItemHandler.cs" t="Include" />
+            <e p="RadioToolItemHandler.cs" t="Include" />
+            <e p="SeparatorToolItemHandler.cs" t="Include" />
+            <e p="ToolBarHandler.cs" t="Include" />
+            <e p="ToolItemHandler.cs" t="Include" />
+          </e>
+          <e p="UITimerHandler.cs" t="Include" />
+        </e>
+        <e p="Gtk3Compatibility.cs" t="Include" />
+        <e p="GtkConversions.cs" t="Include" />
+        <e p="GtkHelpers.cs" t="Include" />
+        <e p="IO" t="Include">
+          <e p="SystemIcons.cs" t="Include" />
+        </e>
+        <e p="KeyMap.cs" t="Include" />
+        <e p="MenuActionItemHandler.cs" t="Include" />
+        <e p="NativeMethods.cs" t="Include" />
+        <e p="NativeMethods.tt" t="Include" />
+        <e p="Platform.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Eto.Mac" t="IncludeRecursive">
+        <e p="AppDelegate.cs" t="Include" />
+        <e p="AsyncQueue.cs" t="Include" />
+        <e p="CGConversions.cs" t="Include" />
+        <e p="CrashReporter.cs" t="Include" />
+        <e p="Drawing" t="Include">
+          <e p="BitmapHandler.cs" t="Include" />
+          <e p="BrushHandler.cs" t="Include" />
+          <e p="FontExtensions.cs" t="Include" />
+          <e p="FontFamilyHandler.cs" t="Include" />
+          <e p="FontHandler.cs" t="Include" />
+          <e p="FontTypefaceHandler.cs" t="Include" />
+          <e p="FontsHandler.cs" t="Include" />
+          <e p="GraphicsHandler.cs" t="Include" />
+          <e p="GraphicsPathHandler.cs" t="Include" />
+          <e p="IconFrameHandler.cs" t="Include" />
+          <e p="IconHandler.cs" t="Include" />
+          <e p="ImageHandler.cs" t="Include" />
+          <e p="IndexedBitmapHandler.cs" t="Include" />
+          <e p="LinearGradientBrushHandler.cs" t="Include" />
+          <e p="MatrixHandler.cs" t="Include" />
+          <e p="PenHandler.cs" t="Include" />
+          <e p="RadialGradientBrushHandler.cs" t="Include" />
+          <e p="SolidBrushHandler.cs" t="Include" />
+          <e p="SplineHelper.cs" t="Include" />
+          <e p="SystemColorsHandler.cs" t="Include" />
+          <e p="TextureBrushHandler.cs" t="Include" />
+        </e>
+        <e p="Eto.Mac64.csproj" t="IncludeRecursive" />
+        <e p="EtoBundle.cs" t="Include" />
+        <e p="EtoEnvironmentHandler.cs" t="Include" />
+        <e p="Forms" t="Include">
+          <e p="Actions" t="Include">
+            <e p="MacCommand.cs" t="Include" />
+          </e>
+          <e p="ApplicationHandler.cs" t="Include" />
+          <e p="Cells" t="Include">
+            <e p="CellHandler.cs" t="Include" />
+            <e p="CheckBoxCellHandler.cs" t="Include" />
+            <e p="ComboBoxCellHandler.cs" t="Include" />
+            <e p="CustomCellHandler.cs" t="Include" />
+            <e p="DrawableCellHandler.cs" t="Include" />
+            <e p="ImageTextCellHandler.cs" t="Include" />
+            <e p="ImageViewCellHandler.cs" t="Include" />
+            <e p="ProgressCellHandler.cs" t="Include" />
+            <e p="TextBoxCellHandler.cs" t="Include" />
+          </e>
+          <e p="ClipboardHandler.cs" t="Include" />
+          <e p="ColorDialogHandler.cs" t="Include" />
+          <e p="Controls" t="Include">
+            <e p="ButtonHandler.cs" t="Include" />
+            <e p="CalendarHandler.cs" t="Include" />
+            <e p="CheckBoxHandler.cs" t="Include" />
+            <e p="ColorPickerHandler.cs" t="Include" />
+            <e p="ComboBoxHandler.cs" t="Include" />
+            <e p="DateTimePickerHandler.cs" t="Include" />
+            <e p="DrawableHandler.cs" t="Include" />
+            <e p="DropDownHandler.cs" t="Include" />
+            <e p="ExpanderHandler.cs" t="Include" />
+            <e p="GridColumnHandler.cs" t="Include" />
+            <e p="GridHandler.cs" t="Include" />
+            <e p="GridViewHandler.cs" t="Include" />
+            <e p="GroupBoxHandler.cs" t="Include" />
+            <e p="ImageViewHandler.cs" t="Include" />
+            <e p="LabelHandler.cs" t="Include" />
+            <e p="LinkButtonHandler.cs" t="Include" />
+            <e p="ListBoxHandler.cs" t="Include" />
+            <e p="MacButton.cs" t="Include" />
+            <e p="MacControl.cs" t="Include" />
+            <e p="MacEventView.cs" t="Include" />
+            <e p="MacImageAndTextCell.cs" t="Include" />
+            <e p="MacLabel.cs" t="Include" />
+            <e p="MacText.cs" t="Include" />
+            <e p="NativeControlHandler.cs" t="Include" />
+            <e p="NumericStepperHandler.cs" t="Include" />
+            <e p="PanelHandler.cs" t="Include" />
+            <e p="PasswordBoxHandler.cs" t="Include" />
+            <e p="ProgressBarHandler.cs" t="Include" />
+            <e p="RadioButtonHandler.cs" t="Include" />
+            <e p="RichTextAreaHandler.cs" t="Include" />
+            <e p="ScrollableHandler.cs" t="Include" />
+            <e p="SearchBoxHandler.cs" t="Include" />
+            <e p="SliderHandler.cs" t="Include" />
+            <e p="SpinnerHandler.cs" t="Include" />
+            <e p="SplitterHandler.cs" t="Include" />
+            <e p="StepperHandler.cs" t="Include" />
+            <e p="TabControlHandler.cs" t="Include" />
+            <e p="TabPageHandler.cs" t="Include" />
+            <e p="TextAreaHandler.cs" t="Include" />
+            <e p="TextBoxHandler.cs" t="Include" />
+            <e p="TreeGridViewHandler.cs" t="Include" />
+            <e p="TreeViewHandler.cs" t="Include" />
+            <e p="WebViewHandler.cs" t="Include" />
+          </e>
+          <e p="CursorHandler.cs" t="Include" />
+          <e p="DataObjectHandler.cs" t="Include" />
+          <e p="DialogHandler.cs" t="Include" />
+          <e p="EtoDragSource.cs" t="Include" />
+          <e p="FontDialogHandler.cs" t="Include" />
+          <e p="FormHandler.cs" t="Include" />
+          <e p="KeyboardHandler.cs" t="Include" />
+          <e p="MacBase.cs" t="Include" />
+          <e p="MacCommon.cs" t="Include" />
+          <e p="MacContainer.cs" t="Include" />
+          <e p="MacControlExtensions.cs" t="Include" />
+          <e p="MacFieldEditor.cs" t="Include" />
+          <e p="MacFileDialog.cs" t="Include" />
+          <e p="MacModal.cs" t="Include" />
+          <e p="MacObject.cs" t="Include" />
+          <e p="MacPanel.cs" t="Include" />
+          <e p="MacView.cs" t="Include" />
+          <e p="MacWindow.cs" t="Include" />
+          <e p="Menu" t="Include">
+            <e p="ButtonMenuItemHandler.cs" t="Include" />
+            <e p="CheckMenuItemHandler.cs" t="Include" />
+            <e p="ContextMenuHandler.cs" t="Include" />
+            <e p="MenuActionHandler.cs" t="Include" />
+            <e p="MenuBarHandler.cs" t="Include" />
+            <e p="MenuHandler.cs" t="Include" />
+            <e p="RadioMenuItemHandler.cs" t="Include" />
+            <e p="SeparatorMenuItem.cs" t="Include" />
+          </e>
+          <e p="MessageBoxHandler.cs" t="Include" />
+          <e p="MouseHandler.cs" t="Include" />
+          <e p="NativeFormHandler.cs" t="Include" />
+          <e p="NotificationHandler.cs" t="Include" />
+          <e p="OpenFileDialog.cs" t="Include" />
+          <e p="OpenWithDialogHandler.cs" t="Include" />
+          <e p="PixelLayoutHandler.cs" t="Include" />
+          <e p="Printing" t="Include">
+            <e p="PrintDialogHandler.cs" t="Include" />
+            <e p="PrintDocumentHandler.cs" t="Include" />
+            <e p="PrintSettingsHandler.cs" t="Include" />
+          </e>
+          <e p="SaveFileDialogHandler.cs" t="Include" />
+          <e p="ScreenHandler.cs" t="Include" />
+          <e p="ScreensHandler.cs" t="Include" />
+          <e p="SelectFolderDialogHandler.cs" t="Include" />
+          <e p="TableLayoutHandler.cs" t="Include" />
+          <e p="ToolBar" t="Include">
+            <e p="ButtonToolItemHandler.cs" t="Include" />
+            <e p="CheckToolItemHandler.cs" t="Include" />
+            <e p="RadioToolItemHandler.cs" t="Include" />
+            <e p="SeparatorToolItemHandler.cs" t="Include" />
+            <e p="ToolBarHandler.cs" t="Include" />
+            <e p="ToolItemHandler.cs" t="Include" />
+          </e>
+          <e p="TrayIndicatorHandler.cs" t="Include" />
+          <e p="UITimerHandler.cs" t="Include" />
+          <e p="iosCompatibility.cs" t="Include" />
+        </e>
+        <e p="IO" t="Include">
+          <e p="SystemIconsHandler.cs" t="Include" />
+        </e>
+        <e p="InvokeHelper.cs" t="Include" />
+        <e p="KeyMap.cs" t="Include" />
+        <e p="Mac64Extensions.cs" t="Include" />
+        <e p="MacConversions.cs" t="Include" />
+        <e p="MacConversions.ns.cs" t="Include" />
+        <e p="MacExtensions.cs" t="Include" />
+        <e p="MacHelpers.cs" t="Include" />
+        <e p="Messaging.cs" t="Include" />
+        <e p="NSImageExtensions.cs" t="Include" />
+        <e p="ObjCExtensions.cs" t="Include" />
+        <e p="Platform.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="SDConversions.cs" t="Include" />
+        <e p="Threading" t="Include">
+          <e p="ThreadHandler.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Eto.Serialization.Json" t="IncludeRecursive">
+        <e p="Converters" t="Include">
+          <e p="DelegateConverter.cs" t="Include" />
+          <e p="DynamicLayoutConverter.cs" t="Include" />
+          <e p="FontConverter.cs" t="Include" />
+          <e p="ImageConverter.cs" t="Include" />
+          <e p="ListItemConverter.cs" t="Include" />
+          <e p="NameConverter.cs" t="Include" />
+          <e p="PropertyStoreConverter.cs" t="Include" />
+          <e p="StackLayoutConverter.cs" t="Include" />
+          <e p="TableLayoutConverter.cs" t="Include" />
+          <e p="TypeConverterConverter.cs" t="Include" />
+        </e>
+        <e p="DefaultNamespaceManager.cs" t="Include" />
+        <e p="Eto.Serialization.Json.csproj" t="IncludeRecursive" />
+        <e p="EtoBinder.cs" t="Include" />
+        <e p="EtoContractResolver.cs" t="Include" />
+        <e p="EventValueProvider.cs" t="Include" />
+        <e p="JsonReader.cs" t="Include" />
+        <e p="NamespaceManager.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Eto.Serialization.Xaml" t="IncludeRecursive">
+        <e p="DesignerUserControl.cs" t="Include" />
+        <e p="Eto.Serialization.Xaml.csproj" t="IncludeRecursive" />
+        <e p="EtoNameScope.cs" t="Include" />
+        <e p="EtoXamlSchemaContext.cs" t="Include" />
+        <e p="EtoXamlType.cs" t="Include" />
+        <e p="Extensions" t="Include">
+          <e p="BindingExtension.cs" t="Include" />
+          <e p="FileExtension.cs" t="Include" />
+          <e p="FontExtension.cs" t="Include" />
+          <e p="OnExtension.cs" t="Include" />
+          <e p="ResourceExtension.cs" t="Include" />
+          <e p="StaticResourceExtension.cs" t="Include" />
+        </e>
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="XamlReader.cs" t="Include" />
+      </e>
+      <e p="Eto.WinForms" t="IncludeRecursive">
+        <e p="BubbleEventFilter.cs" t="Include" />
+        <e p="CustomControls" t="Include">
+          <e p="CalendarPicker.png" t="Include" />
+          <e p="ExtendedDateTimePicker.cs" t="Include" />
+          <e p="TreeController.cs" t="Include" />
+        </e>
+        <e p="Drawing" t="Include">
+          <e p="BitmapHandler.cs" t="Include" />
+          <e p="BrushHandler.cs" t="Include" />
+          <e p="FontFamilyHandler.cs" t="Include" />
+          <e p="FontHandler.cs" t="Include" />
+          <e p="FontTypefaceHandler.cs" t="Include" />
+          <e p="FontsHandler.cs" t="Include" />
+          <e p="GraphicsHandler.cs" t="Include" />
+          <e p="GraphicsPathHandler.cs" t="Include" />
+          <e p="IconFrameHandler.cs" t="Include" />
+          <e p="IconHandler.cs" t="Include" />
+          <e p="IndexedBitmapHandler.cs" t="Include" />
+          <e p="LinearGradientBrushHandler.cs" t="Include" />
+          <e p="MatrixHandler.cs" t="Include" />
+          <e p="PenHandler.cs" t="Include" />
+          <e p="RadialGradientBrushHandler.cs" t="Include" />
+          <e p="SolidBrushHandler.cs" t="Include" />
+          <e p="SystemColorsHandler.cs" t="Include" />
+          <e p="TextureBrushHandler.cs" t="Include" />
+        </e>
+        <e p="Eto.WinForms.csproj" t="IncludeRecursive" />
+        <e p="EtoEnvironmentHandler.cs" t="Include" />
+        <e p="Forms" t="Include">
+          <e p="ApplicationHandler.cs" t="Include" />
+          <e p="Cells" t="Include">
+            <e p="CellHandler.cs" t="Include" />
+            <e p="CheckBoxCellHandler.cs" t="Include" />
+            <e p="ComboBoxCellHandler.cs" t="Include" />
+            <e p="CustomCellHandler.cs" t="Include" />
+            <e p="DrawableCellHandler.cs" t="Include" />
+            <e p="ImageTextCellHandler.cs" t="Include" />
+            <e p="ImageViewCellHandler.cs" t="Include" />
+            <e p="ProgressCellHandler.cs" t="Include" />
+            <e p="TextBoxCellHandler.cs" t="Include" />
+          </e>
+          <e p="ClipboardHandler.cs" t="Include" />
+          <e p="ColorDialogHandler.cs" t="Include" />
+          <e p="Controls" t="Include">
+            <e p="ButtonHandler.cs" t="Include" />
+            <e p="CalendarHandler.cs" t="Include" />
+            <e p="CheckBoxHandler.cs" t="Include" />
+            <e p="ColorPickerHandler.cs" t="Include" />
+            <e p="ComboBoxHandler.cs" t="Include" />
+            <e p="ControlHandler.cs" t="Include" />
+            <e p="DateTimePickerHandler.cs" t="Include" />
+            <e p="DrawableHandler.cs" t="Include" />
+            <e p="DropDownHandler.cs" t="Include" />
+            <e p="GridColumnHandler.cs" t="Include" />
+            <e p="GridHandler.cs" t="Include" />
+            <e p="GridViewHandler.cs" t="Include" />
+            <e p="GroupBoxHandler.cs" t="Include" />
+            <e p="ImageViewHandler.cs" t="Include" />
+            <e p="LabelHandler.cs" t="Include" />
+            <e p="LinkButtonHandler.cs" t="Include" />
+            <e p="ListBoxHandler.cs" t="Include" />
+            <e p="NativeControlHandler.cs" t="Include" />
+            <e p="NumericStepperHandler.cs" t="Include" />
+            <e p="PanelHandler.cs" t="Include" />
+            <e p="PasswordBoxHandler.cs" t="Include" />
+            <e p="ProgressBarHandler.cs" t="Include" />
+            <e p="RadioButton.cs" t="Include" />
+            <e p="RichTextAreaHandler.cs" t="Include" />
+            <e p="ScrollableHandler.cs" t="Include" />
+            <e p="SearchBoxHandler.cs" t="Include" />
+            <e p="SliderHandler.cs" t="Include" />
+            <e p="SplitterHandler.cs" t="Include" />
+            <e p="StepperHandler.cs" t="Include" />
+            <e p="TabControlHandler.cs" t="Include" />
+            <e p="TabPageHandler.cs" t="Include" />
+            <e p="TextAreaHandler.cs" t="Include" />
+            <e p="TextBoxHandler.cs" t="Include" />
+            <e p="TextStepperHandler.cs" t="Include" />
+            <e p="TreeGridViewHandler.cs" t="Include" />
+            <e p="TreeViewHandler.cs" t="Include" />
+            <e p="WebViewHandler.cs" t="Include" />
+          </e>
+          <e p="CursorHandler.cs" t="Include" />
+          <e p="DataObjectHandler.cs" t="Include" />
+          <e p="DialogHandler.cs" t="Include" />
+          <e p="Extensions.cs" t="Include" />
+          <e p="FontDialogHandler.cs" t="Include" />
+          <e p="FormHandler.cs" t="Include" />
+          <e p="HwndFormHandler.cs" t="Include" />
+          <e p="KeyboardHandler.cs" t="Include" />
+          <e p="Menu" t="Include">
+            <e p="ButtonMenuItemHandler.cs" t="Include" />
+            <e p="CheckMenuItemHandler.cs" t="Include" />
+            <e p="ContextMenuHandler.cs" t="Include" />
+            <e p="MenuBarHandler.cs" t="Include" />
+            <e p="MenuHandler.cs" t="Include" />
+            <e p="RadioMenuItemHandler.cs" t="Include" />
+            <e p="SeparatorMenuItem.cs" t="Include" />
+          </e>
+          <e p="MessageBoxHandler.cs" t="Include" />
+          <e p="MouseHandler.cs" t="Include" />
+          <e p="OpenFileDialog.cs" t="Include" />
+          <e p="OpenWithDialogHandler.cs" t="Include" />
+          <e p="PixelLayoutHandler.cs" t="Include" />
+          <e p="Printing" t="Include">
+            <e p="PrintDialogHandler.cs" t="Include" />
+            <e p="PrintDocumentHandler.cs" t="Include" />
+            <e p="PrintSettingsHandler.cs" t="Include" />
+          </e>
+          <e p="SaveFileDialog.cs" t="Include" />
+          <e p="ScreenHandler.cs" t="Include" />
+          <e p="ScreensHandler.cs" t="Include" />
+          <e p="SelectFolderDialogHandler.cs" t="Include" />
+          <e p="TableLayoutHandler.cs" t="Include" />
+          <e p="ToolBar" t="Include">
+            <e p="ButtonToolItemHandler.cs" t="Include" />
+            <e p="CheckToolItemHandler.cs" t="Include" />
+            <e p="RadioToolItemHandler.cs" t="Include" />
+            <e p="SeparatorToolBarItemHandler.cs" t="Include" />
+            <e p="ToolBarHandler.cs" t="Include" />
+            <e p="ToolItemHandler.cs" t="Include" />
+          </e>
+          <e p="TrayIndicatorHandler.cs" t="Include" />
+          <e p="UITimerHandler.cs" t="Include" />
+          <e p="WindowHandler.cs" t="Include" />
+          <e p="WindowsContainer.cs" t="Include" />
+          <e p="WindowsControl.cs" t="Include" />
+          <e p="WindowsFileDialog.cs" t="Include" />
+          <e p="WindowsPanel.cs" t="Include" />
+        </e>
+        <e p="IO" t="Include">
+          <e p="ShellIcon.cs" t="Include" />
+          <e p="SystemIcons.cs" t="Include" />
+        </e>
+        <e p="KeyMap.cs" t="Include" />
+        <e p="LeakHelper.cs" t="Include" />
+        <e p="OctreeQuantizer.cs" t="Include" />
+        <e p="PaletteQuantizer.cs" t="Include" />
+        <e p="Platform.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Quantizer.cs" t="Include" />
+        <e p="ScrollMessageFilter.cs" t="Include" />
+        <e p="Win32.cs" t="Include" />
+        <e p="Win32.dpi.cs" t="Include" />
+        <e p="Win32TextBox.cs" t="Include" />
+        <e p="WinConversions.cs" t="Include" />
+        <e p="WinConversions.shared.cs" t="Include" />
+        <e p="WinFormsHelpers.cs" t="Include" />
+      </e>
+      <e p="Eto.Wpf" t="IncludeRecursive">
+        <e p="CustomControls" t="Include">
+          <e p="EditableTextBlock.cs" t="Include" />
+          <e p="FontDialog" t="Include">
+            <e p="fontchooser.xaml" t="Include" />
+            <e p="fontchooser.xaml.cs" t="Include" />
+            <e p="fontfamilylistitem.cs" t="Include" />
+            <e p="fontsizelistitem.cs" t="Include" />
+            <e p="namedictionaryhelper.cs" t="Include" />
+            <e p="typefacelistitem.cs" t="Include" />
+            <e p="typographicfeaturelistitem.cs" t="Include" />
+          </e>
+          <e p="GlassHelper.cs" t="Include" />
+          <e p="HttpServer.cs" t="Include" />
+          <e p="MultiSizeImage.cs" t="Include" />
+          <e p="OverlayIcon.xaml" t="Include" />
+          <e p="OverlayIcon.xaml.cs" t="Include" />
+          <e p="SelectableTreeView.cs" t="Include" />
+          <e p="TreeGridView" t="Include">
+            <e p="TreeToggleButton.cs" t="Include" />
+          </e>
+        </e>
+        <e p="DragDropConversions.cs" t="Include" />
+        <e p="Drawing" t="Include">
+          <e p="BitmapHandler.cs" t="Include" />
+          <e p="CachedBitmapFrame.cs" t="Include" />
+          <e p="FontFamilyHandler.cs" t="Include" />
+          <e p="FontHandler.cs" t="Include" />
+          <e p="FontTypefaceHandler.cs" t="Include" />
+          <e p="FontsHandler.cs" t="Include" />
+          <e p="GraphicsHandler.cs" t="Include" />
+          <e p="GraphicsPathHandler.cs" t="Include" />
+          <e p="IconFrameHandler.cs" t="Include" />
+          <e p="IconHandler.cs" t="Include" />
+          <e p="IndexedBitmapHandler.cs" t="Include" />
+          <e p="LinearGradientBrushHandler.cs" t="Include" />
+          <e p="MatrixHandler.cs" t="Include" />
+          <e p="PenHandler.cs" t="Include" />
+          <e p="RadialGradientBrushHandler.cs" t="Include" />
+          <e p="SolidBrushHandler.cs" t="Include" />
+          <e p="SystemColorsHandler.cs" t="Include" />
+          <e p="TextureBrushHandler.cs" t="Include" />
+          <e p="TransformStack.cs" t="Include" />
+        </e>
+        <e p="Eto.Wpf.csproj" t="IncludeRecursive" />
+        <e p="EtoEnvironmentHandler.cs" t="Include" />
+        <e p="Forms" t="Include">
+          <e p="ApplicationHandler.cs" t="Include" />
+          <e p="Cells" t="Include">
+            <e p="CellHandler.cs" t="Include" />
+            <e p="CheckBoxCellHandler.cs" t="Include" />
+            <e p="ComboBoxCellHandler.cs" t="Include" />
+            <e p="CustomCellHandler.cs" t="Include" />
+            <e p="DrawableCellHandler.cs" t="Include" />
+            <e p="ImageTextCellHandler.cs" t="Include" />
+            <e p="ImageViewCellHandler.cs" t="Include" />
+            <e p="ProgressCellHandler.cs" t="Include" />
+            <e p="TextBoxCellHandler.cs" t="Include" />
+          </e>
+          <e p="ClipboardHandler.cs" t="Include" />
+          <e p="ColorDialogHandler.cs" t="Include" />
+          <e p="Controls" t="Include">
+            <e p="ButtonHandler.cs" t="Include" />
+            <e p="CalendarHandler.cs" t="Include" />
+            <e p="CheckBoxHandler.cs" t="Include" />
+            <e p="ColorPickerHandler.cs" t="Include" />
+            <e p="ComboBoxHandler.cs" t="Include" />
+            <e p="DateTimePickerHandler.cs" t="Include" />
+            <e p="DrawableHandler.cs" t="Include" />
+            <e p="DropDownHandler.cs" t="Include" />
+            <e p="ExpanderHandler.cs" t="Include" />
+            <e p="GridColumnHandler.cs" t="Include" />
+            <e p="GridHandler.cs" t="Include" />
+            <e p="GridViewHandler.cs" t="Include" />
+            <e p="GroupBoxHandler.cs" t="Include" />
+            <e p="ImageViewHandler.cs" t="Include" />
+            <e p="LabelHandler.cs" t="Include" />
+            <e p="LinkButtonHandler.cs" t="Include" />
+            <e p="ListBoxHandler.cs" t="Include" />
+            <e p="NativeControlHandler.cs" t="Include" />
+            <e p="NumericStepperHandler.cs" t="Include" />
+            <e p="PanelHandler.cs" t="Include" />
+            <e p="PasswordBoxHandler.cs" t="Include" />
+            <e p="ProgressBarHandler.cs" t="Include" />
+            <e p="RadioButtonHandler.cs" t="Include" />
+            <e p="RichTextAreaHandler.cs" t="Include" />
+            <e p="ScrollableHandler.cs" t="Include" />
+            <e p="SearchBoxHandler.cs" t="Include" />
+            <e p="SliderHandler.cs" t="Include" />
+            <e p="SplitterHandler.cs" t="Include" />
+            <e p="StepperHandler.cs" t="Include" />
+            <e p="SwfWebViewHandler.cs" t="Include" />
+            <e p="TabControlHandler.cs" t="Include" />
+            <e p="TabPageHandler.cs" t="Include" />
+            <e p="TextAreaHandler.cs" t="Include" />
+            <e p="TextBoxHandler.cs" t="Include" />
+            <e p="TextStepperHandler.cs" t="Include" />
+            <e p="TreeGridViewHandler.cs" t="Include" />
+            <e p="TreeViewHandler.cs" t="Include" />
+            <e p="WpfListItemHelper.cs" t="Include" />
+            <e p="WpfTreeItemHelper.cs" t="Include" />
+            <e p="WpfWebViewHandler.cs" t="Include" />
+          </e>
+          <e p="CursorHandler.cs" t="Include" />
+          <e p="DataObjectHandler.cs" t="Include" />
+          <e p="DialogHandler.cs" t="Include" />
+          <e p="EnableThemingInScope.cs" t="Include" />
+          <e p="EtoBorder.cs" t="Include" />
+          <e p="FontDialogHandler.cs" t="Include" />
+          <e p="FormHandler.cs" t="Include" />
+          <e p="KeyboardHandler.cs" t="Include" />
+          <e p="Menu" t="Include">
+            <e p="ButtonMenuItemHandler.cs" t="Include" />
+            <e p="CheckMenuItemHandler.cs" t="Include" />
+            <e p="ContextMenuHandler.cs" t="Include" />
+            <e p="MenuBarHandler.cs" t="Include" />
+            <e p="MenuHandler.cs" t="Include" />
+            <e p="MenuItemHandler.cs" t="Include" />
+            <e p="RadioMenuItemHandler.cs" t="Include" />
+            <e p="SeparatorMenuItemHandler.cs" t="Include" />
+          </e>
+          <e p="MessageBoxHandler.cs" t="Include" />
+          <e p="MouseHandler.cs" t="Include" />
+          <e p="NativeFormHandler.cs" t="Include" />
+          <e p="NotificationHandler.cs" t="Include" />
+          <e p="OpenFileDialogHandler.cs" t="Include" />
+          <e p="OpenWithDialogHandler.cs" t="Include" />
+          <e p="PerMonitorDpiHelper.cs" t="Include" />
+          <e p="PixelLayoutHandler.cs" t="Include" />
+          <e p="Printing" t="Include">
+            <e p="PrintDialogHandler.cs" t="Include" />
+            <e p="PrintDocumentHandler.cs" t="Include" />
+            <e p="PrintSettingsHandler.cs" t="Include" />
+          </e>
+          <e p="SaveFileDialogHandler.cs" t="Include" />
+          <e p="ScreenHandler.cs" t="Include" />
+          <e p="ScreensHandler.cs" t="Include" />
+          <e p="SelectFolderDialogHandler.cs" t="Include" />
+          <e p="TableLayoutHandler.cs" t="Include" />
+          <e p="ToolBar" t="Include">
+            <e p="ButtonToolItemHandler.cs" t="Include" />
+            <e p="CheckToolItemHandler.cs" t="Include" />
+            <e p="RadioToolItemHandler.cs" t="Include" />
+            <e p="SeparatorToolItemHandler.cs" t="Include" />
+            <e p="ToolBarHandler.cs" t="Include" />
+            <e p="ToolItemHandler.cs" t="Include" />
+          </e>
+          <e p="TrayIndicatorHandler.cs" t="Include" />
+          <e p="UITimerHandler.cs" t="Include" />
+          <e p="VistaSelectFolderDialogHandler.cs" t="Include" />
+          <e p="WindowsFormsHostHandler.cs" t="Include" />
+          <e p="WpfCommonDialog.cs" t="Include" />
+          <e p="WpfContainer.cs" t="Include" />
+          <e p="WpfControl.cs" t="Include" />
+          <e p="WpfFileDialog.cs" t="Include" />
+          <e p="WpfFrameworkElement.cs" t="Include" />
+          <e p="WpfLayout.cs" t="Include" />
+          <e p="WpfPanel.cs" t="Include" />
+          <e p="WpfWindow.cs" t="Include" />
+        </e>
+        <e p="IO" t="Include">
+          <e p="SystemIcons.cs" t="Include" />
+        </e>
+        <e p="KeyMap.cs" t="Include" />
+        <e p="LogicalScreenHelper.cs" t="Include" />
+        <e p="Platform.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="FontDialogResources.Designer.cs" t="Include" />
+          <e p="FontDialogResources.resx" t="Include" />
+        </e>
+        <e p="PropertyChangeNotifier.cs" t="Include" />
+        <e p="PropertyPathHelper.cs" t="Include" />
+        <e p="Win32.dib.cs" t="Include" />
+        <e p="WinForms" t="Include" />
+        <e p="WinFormsHelpers.cs" t="Include" />
+        <e p="WpfConversions.cs" t="Include" />
+        <e p="WpfExtensions.cs" t="Include" />
+        <e p="WpfHelpers.cs" t="Include" />
+        <e p="themes" t="Include">
+          <e p="aero.normalcolor.xaml" t="Include" />
+          <e p="aero2.normalcolor.xaml" t="Include" />
+          <e p="classic.xaml" t="Include" />
+          <e p="generic.xaml" t="Include" />
+          <e p="luna.homestead.xaml" t="Include" />
+          <e p="luna.metallic.xaml" t="Include" />
+          <e p="luna.normalcolor.xaml" t="Include" />
+          <e p="royale.normalcolor.xaml" t="Include" />
+          <e p="wpftoolkit" t="Include">
+            <e p="ButtonSpinner.xaml" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Eto.sln" t="IncludeFlat" />
+      <e p="GtkMono" t="IncludeRecursive">
+        <e p="GtkMono.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="NuGet.Config" t="Include" />
+      <e p="Shared/BaseBitmapData.cs" t="Include" />
+      <e p="Shared/Conversions.cs" t="Include" />
+      <e p="Shared/EmbeddedAssemblyLoader.cs" t="Include" />
+      <e p="Shared/EnumerableExtensions.cs" t="Include" />
+      <e p="Shared/FixedMaskedTextProviderHandler.cs" t="Include" />
+      <e p="Shared/GlobalAssemblyInfo.cs" t="Include" />
+      <e p="Shared/GradientHelper.cs" t="Include" />
+      <e p="Shared/MutableCellEventArgs.cs" t="Include" />
+      <e p="Shared/PlatformDetect.cs" t="Include" />
+      <e p="build" t="Include" />
+      <e p="test" t="Include" />
+    </e>
+    <e p="$PROJECT_DIR$/../test/Eto.Test" t="IncludeRecursive">
+      <e p="Commands" t="Include">
+        <e p="About.cs" t="Include" />
+        <e p="Quit.cs" t="Include" />
+      </e>
+      <e p="Eto.Test.csproj" t="IncludeRecursive" />
+      <e p="Handlers" t="Include">
+        <e p="TabControlHandler.cs" t="Include" />
+        <e p="TabPageHandler.cs" t="Include" />
+      </e>
+      <e p="Images" t="Include">
+        <e p="Logo.png" t="Include" />
+        <e p="Logo@0.5x.png" t="Include" />
+        <e p="Logo@1.5x.png" t="Include" />
+        <e p="Logo@2x.png" t="Include" />
+        <e p="Logo@4x.png" t="Include" />
+        <e p="LogoWith288DPI.png" t="Include" />
+        <e p="LogoWith288DPI@2x.png" t="Include" />
+        <e p="TestIcon.ico" t="Include" />
+        <e p="TestImage.png" t="Include" />
+        <e p="Textures.gif" t="Include" />
+        <e p="Textures.png" t="Include" />
+      </e>
+      <e p="Log.cs" t="Include" />
+      <e p="MainForm.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="Resources" t="Include">
+        <e p="Resource.designer.cs" t="Include" />
+      </e>
+      <e p="SectionList.cs" t="Include" />
+      <e p="Sections" t="Include">
+        <e p="Behaviors" t="Include">
+          <e p="AllControlsBase.cs" t="Include" />
+          <e p="BadgeLabelSection.cs" t="Include" />
+          <e p="ClipboardSection.cs" t="Include" />
+          <e p="ContextMenuSection.cs" t="Include" />
+          <e p="CursorSection.cs" t="Include" />
+          <e p="DragDropSection.cs" t="Include" />
+          <e p="DynamicFocusSection.cs" t="Include" />
+          <e p="DynamicMenuBar.cs" t="Include" />
+          <e p="FocusEventsSection.cs" t="Include" />
+          <e p="KeyEventsSection.cs" t="Include" />
+          <e p="MouseEventsSection.cs" t="Include" />
+          <e p="MousePositionSection.cs" t="Include" />
+          <e p="NotificationSection.cs" t="Include" />
+          <e p="ScreenSection.cs" t="Include" />
+          <e p="TabIndexSection.cs" t="Include" />
+          <e p="TrayIndicatorSection.cs" t="Include" />
+          <e p="WindowsSection.cs" t="Include" />
+        </e>
+        <e p="Controls" t="Include">
+          <e p="ButtonSection.cs" t="Include" />
+          <e p="CalendarSection.cs" t="Include" />
+          <e p="CheckBoxSection.cs" t="Include" />
+          <e p="ColorPickerSection.cs" t="Include" />
+          <e p="ComboBoxSection.cs" t="Include" />
+          <e p="ControlColorsSection.cs" t="Include" />
+          <e p="DateTimePickerSection.cs" t="Include" />
+          <e p="DocumentControlSection.cs" t="Include" />
+          <e p="DrawableSection.cs" t="Include" />
+          <e p="DropDownSection.cs" t="Include" />
+          <e p="ExpanderSection.cs" t="Include" />
+          <e p="FilePickerSection.cs" t="Include" />
+          <e p="FontPickerSection.cs" t="Include" />
+          <e p="GridCellFormattingSection.cs" t="Include" />
+          <e p="GridViewSection.cs" t="Include" />
+          <e p="GroupBoxSection.cs" t="Include" />
+          <e p="ImageViewSection.cs" t="Include" />
+          <e p="KitchenSinkSection.cs" t="Include" />
+          <e p="LabelSection.cs" t="Include" />
+          <e p="LinkButtonSection.cs" t="Include" />
+          <e p="ListBoxSection.cs" t="Include" />
+          <e p="MaskedTextBoxSection.cs" t="Include" />
+          <e p="MaskedTextStepperSection.cs" t="Include" />
+          <e p="NumericStepperSection.cs" t="Include" />
+          <e p="PasswordBoxSection.cs" t="Include" />
+          <e p="ProgressBarSection.cs" t="Include" />
+          <e p="PropertyCellSection.cs" t="Include" />
+          <e p="RadioButtonListSection.cs" t="Include" />
+          <e p="RadioButtonSection.cs" t="Include" />
+          <e p="RichTextAreaSection.cs" t="Include" />
+          <e p="ScrollableSection.cs" t="Include" />
+          <e p="SliderSection.cs" t="Include" />
+          <e p="SpinnerSection.cs" t="Include" />
+          <e p="SplitterSection.cs" t="Include" />
+          <e p="StepperSection.cs" t="Include" />
+          <e p="TabControlSection.cs" t="Include" />
+          <e p="TextAreaSection.cs" t="Include" />
+          <e p="TextBoxSection.cs" t="Include" />
+          <e p="TextStepperSection.cs" t="Include" />
+          <e p="TreeGridViewSection.cs" t="Include" />
+          <e p="TreeViewSection.cs" t="Include" />
+          <e p="WebViewSection.cs" t="Include" />
+        </e>
+        <e p="Dialogs" t="Include">
+          <e p="AboutDialogSection.cs" t="Include" />
+          <e p="ColorDialogSection.cs" t="Include" />
+          <e p="DialogSection.cs" t="Include" />
+          <e p="FileDialogSection.cs" t="Include" />
+          <e p="FontDialogSection.cs" t="Include" />
+          <e p="MessageBoxSection.cs" t="Include" />
+          <e p="OpenWithDialogSection.cs" t="Include" />
+          <e p="SelectFolderSection.cs" t="Include" />
+        </e>
+        <e p="Drawing" t="Include">
+          <e p="AntialiasSection.cs" t="Include" />
+          <e p="BitmapSection.cs" t="Include" />
+          <e p="BrushSection.cs" t="Include" />
+          <e p="ClearSection.cs" t="Include" />
+          <e p="ClipSection.cs" t="Include" />
+          <e p="ClipTransformSection.cs" t="Include" />
+          <e p="DrawLoopSection.cs" t="Include" />
+          <e p="DrawTextSection.cs" t="Include" />
+          <e p="GetPixelSection.cs" t="Include" />
+          <e p="GraphicsPathSection.cs" t="Include" />
+          <e p="IconFrameSection.cs" t="Include" />
+          <e p="IndexedBitmapSection.cs" t="Include" />
+          <e p="InterpolationSection.cs" t="Include" />
+          <e p="PenSection.cs" t="Include" />
+          <e p="PixelOffsetSection.cs" t="Include" />
+          <e p="PixelOffsetTransforms.cs" t="Include" />
+          <e p="SystemColorSection.cs" t="Include" />
+          <e p="TextureBrushesSection.cs" t="Include" />
+          <e p="TextureBrushesSection2.cs" t="Include" />
+          <e p="TransformSection.cs" t="Include" />
+        </e>
+        <e p="Layouts" t="Include">
+          <e p="PixelLayoutSection" t="Include">
+            <e p="AnchorSection.cs" t="Include" />
+          </e>
+          <e p="ScrollingLayouts" t="Include">
+            <e p="DockLayoutExpansion.cs" t="Include" />
+            <e p="PixelLayoutExpansion.cs" t="Include" />
+            <e p="TableLayoutExpansion.cs" t="Include" />
+            <e p="TablePaddingAndSpacingSection.cs" t="Include" />
+          </e>
+          <e p="TableLayoutSection" t="Include">
+            <e p="ChildWidthSection.cs" t="Include" />
+            <e p="RuntimeSection.cs" t="Include" />
+            <e p="ScalingSection.cs" t="Include" />
+            <e p="SpacingSection.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Printing" t="Include">
+          <e p="PrintDialogSection.cs" t="Include" />
+        </e>
+        <e p="Serialization" t="Include">
+          <e p="Json" t="Include">
+            <e p="Test.cs" t="Include" />
+            <e p="Test.json" t="Include" />
+          </e>
+          <e p="JsonReadSection.cs" t="Include" />
+          <e p="Xaml" t="Include">
+            <e p="Test.cs" t="Include" />
+            <e p="Test.xeto" t="Include" />
+          </e>
+          <e p="XamlReadSection.cs" t="Include" />
+        </e>
+        <e p="UnitTestPanel.cs" t="Include" />
+        <e p="UnitTestSection.cs" t="Include" />
+      </e>
+      <e p="TestApplication.cs" t="Include" />
+      <e p="TestIcons.cs" t="Include" />
+      <e p="TestSections.cs" t="Include" />
+      <e p="UnitTests" t="Include">
+        <e p="Drawing" t="Include">
+          <e p="BitmapTests.cs" t="Include" />
+          <e p="BrushTests.cs" t="Include" />
+          <e p="ClipTests.cs" t="Include" />
+          <e p="ColorTests.cs" t="Include" />
+          <e p="DefaultValueTests.cs" t="Include" />
+          <e p="FontTests.cs" t="Include" />
+          <e p="GraphicsTests.cs" t="Include" />
+          <e p="IconTests.cs" t="Include" />
+          <e p="MatrixTests.cs" t="Include" />
+        </e>
+        <e p="Forms" t="Include">
+          <e p="Binding" t="Include">
+            <e p="ObjectBindingChangedTests.cs" t="Include" />
+            <e p="ObjectBindingObjectChangedTests.cs" t="Include" />
+            <e p="PropertyBindingTests.cs" t="Include" />
+          </e>
+          <e p="ClipboardTests.cs" t="Include" />
+          <e p="ContainerTests.cs" t="Include" />
+          <e p="Controls" t="Include">
+            <e p="CalendarTests.cs" t="Include" />
+            <e p="ComboBoxTests.cs" t="Include" />
+            <e p="ControlEventTests.cs" t="Include" />
+            <e p="ControlTests.cs" t="Include" />
+            <e p="CustomCellTests.cs" t="Include" />
+            <e p="DocumentControlTests.cs" t="Include" />
+            <e p="DropDownTests.cs" t="Include" />
+            <e p="GridViewFilterTests.cs" t="Include" />
+            <e p="GridViewSelectTests.cs" t="Include" />
+            <e p="GridViewSelectableFilterTests.cs" t="Include" />
+            <e p="GridViewTests.cs" t="Include" />
+            <e p="ImageViewTests.cs" t="Include" />
+            <e p="NumericStepperTests.cs" t="Include" />
+            <e p="PanelTests.cs" t="Include" />
+            <e p="RadioButtonTests.cs" t="Include" />
+            <e p="RichTextAreaTests.cs" t="Include" />
+            <e p="ScrollableTests.cs" t="Include" />
+            <e p="SliderTests.cs" t="Include" />
+            <e p="SplitterTests.cs" t="Include" />
+            <e p="TextAreaTests.cs" t="Include" />
+            <e p="TextBoxTests.cs" t="Include" />
+            <e p="TreeGridViewTests.cs" t="Include" />
+          </e>
+          <e p="DataContextTests.cs" t="Include" />
+          <e p="DialogTests.cs" t="Include" />
+          <e p="FilterCollectionTests.cs" t="Include" />
+          <e p="GridViewUtils.cs" t="Include" />
+          <e p="Layout" t="Include">
+            <e p="DynamicLayoutTests.cs" t="Include" />
+            <e p="StackLayoutTests.cs" t="Include" />
+            <e p="TableLayoutTests.cs" t="Include" />
+          </e>
+          <e p="RangeTests.cs" t="Include" />
+          <e p="TestClasses.cs" t="Include" />
+          <e p="ToolItemCollectionTests.cs" t="Include" />
+          <e p="WindowTests.cs" t="Include" />
+          <e p="XamlTests.cs" t="Include" />
+        </e>
+        <e p="TestBase.cs" t="Include" />
+      </e>
+    </e>
+    <e p="$PROJECT_DIR$/../test/Eto.Test.Mac" t="IncludeRecursive">
+      <e p="Eto.Test.Mac64.csproj" t="IncludeRecursive" />
+      <e p="Info.plist" t="Include" />
+      <e p="Properties" t="Include" />
+      <e p="Startup.cs" t="Include" />
+      <e p="TestIcon.icns" t="Include" />
+      <e p="UnitTests" t="Include">
+        <e p="NativeParentWindowTests.cs" t="Include" />
+        <e p="RichTextAreaHandlerTests.cs" t="Include" />
+        <e p="ScrollableTests.cs" t="Include" />
+      </e>
+      <e p="linker.xml" t="Include" />
+      <e p="packages.config" t="Include" />
+    </e>
+    <e p="$PROJECT_DIR$/../test/Eto.Test.Wpf" t="IncludeRecursive">
+      <e p="Eto.Test.Wpf.csproj" t="IncludeRecursive" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="Startup.cs" t="Include" />
+      <e p="TestIcon.ico" t="Include" />
+      <e p="UnitTests" t="Include">
+        <e p="DataContextTests.cs" t="Include" />
+        <e p="MenuBarTests.cs" t="Include" />
+        <e p="NativeParentWindowTests.cs" t="Include" />
+        <e p="ScreenTests.cs" t="Include" />
+        <e p="ScrollableTests.cs" t="Include" />
+        <e p="TransformStackTest.cs" t="Include" />
+      </e>
+      <e p="app.config" t="Include" />
+      <e p="app.manifest" t="Include" />
+    </e>
+  </component>
+</project>

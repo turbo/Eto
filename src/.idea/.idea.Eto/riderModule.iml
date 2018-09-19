@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$USER_HOME$/.nuget/packages/extended.wpf.toolkit/3.2.0/lib/net40" />
+    <content url="file://$USER_HOME$/.nuget/packages/windows7apicodepack-core/1.1.0/lib" />
+    <content url="file://$USER_HOME$/.nuget/packages/windows7apicodepack-shell/1.1.0/lib" />
+    <content url="file://$MODULE_DIR$/../../../LICENSE.txt" />
+    <content url="file://$MODULE_DIR$/../../../build/Build.proj" />
+    <content url="file://$MODULE_DIR$/../../../build/Build.props" />
+    <content url="file://$MODULE_DIR$/../../../build/Build.targets" />
+    <content url="file://$MODULE_DIR$/../../../build/Utilities.targets" />
+    <content url="file://$MODULE_DIR$/../../../lib/MonoMac64/MonoMac-License.txt" />
+    <content url="file://$MODULE_DIR$/../../../lib/SHDocVw" />
+    <content url="file://$MODULE_DIR$/../.." />
+    <content url="file://$MODULE_DIR$/../../../test/Eto.Test" />
+    <content url="file://$MODULE_DIR$/../../../test/Eto.Test.Mac" />
+    <content url="file://$MODULE_DIR$/../../../test/Eto.Test.Wpf" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
